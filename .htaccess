@@ -1,0 +1,12 @@
+AddDefaultCharset utf8
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^parquet-board.com/
+RewriteRule (.*) parquet-board.com/$1 [R=301,L]
+
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
+RewriteRule ^home\.html$ parquet-board.com/ [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]

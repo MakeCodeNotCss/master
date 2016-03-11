@@ -1,0 +1,45 @@
+
+.accountMenu ul {
+	border:solid #EEEEEE;
+}
+
+.accountMenu li {
+	text-transform: uppercase;
+}
+
+.accountInfo {
+	padding: 20px;
+	border:solid #EEEEEE;
+}
+
+.accountInfo td {
+	padding:5px;
+}
+
+.accountMenu li {
+	list-style-type:none;
+}
+
+.userSubMenu {
+	margin-top: 6px;
+}
+
+.userSubMenu a:hover {
+	text-decoration: none;
+	color:black;
+}
+
+.accountMenu a:hover {
+	text-decoration: none;
+	color:black;
+	
+}
+
+
+
+
+
+
+
+
+

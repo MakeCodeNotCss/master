@@ -1,0 +1,35 @@
+Ваш сервис-код: H-108816
+
+Адрес Вашего сайта:
+http://parquet-board.com
+http://www.parquet-board.com
+
+
+Дополнительные возможности по работе с Вашим аккаунтом
+можно получить, используя MiroHost Web Control Panel:
+https://control.mirohost.net/
+Для входа используйте следующие данные:
+CP login: sergj_nk
+CP password: 9HPfGYZy
+
+
+Для того чтобы разместить свой сайт воспользуйтесь любым ftp-клиентом
+(ftp-клиент должен работать в passive mode).
+
+(!!! ВНИМАНИЕ !!! )
+
+Перед использованием ftp клиента вам необходимо зайти в контрольную панель хостинга на страницу https://control.mirohost.net/site_managment/ftp_manager.php?act=access_form
+И прописать ip адреса или имена хостов, которым будет разрешен доступ по ftp к вашему сайту.
+Обращаем ваше внимание, что по-умолчанию доступ к ftp разрешен только для файлового менеджера контрольной панели.
+
+Данные для FTP клиента:
+FTP server: ftp://es165.mirohost.net
+FTP login: parquetboard
+FTP password: gtCenoAr
+
+
+Данные для работы с базой данных MySQL :
+mySQL server: localhost
+mySQL database: parquetb
+mySQL login: u_parquetb
+mySQL password: b9rQJryZ
