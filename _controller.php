@@ -3,7 +3,7 @@
 	// CONTROLLER
 
 	/*	***************************	*/
-	/*	Author: Sivkovych Maksym	*/
+	/*	Author: Sivkovych MaksymKO	*/
 	/*	Developed: 01.09.2015		*/
 	/*	***************************	*/
 
